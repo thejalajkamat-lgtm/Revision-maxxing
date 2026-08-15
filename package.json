@@ -1,5 +1,5 @@
 {
-  "name": "revision-maxxing",
+  "name": "horny",
   "version": "1.0.0",
   "description": "",
   "homepage": "https://github.com/thejalajkamat-lgtm/Revision-maxxing#readme",
@@ -11,13 +11,10 @@
     "url": "git+https://github.com/thejalajkamat-lgtm/Revision-maxxing.git"
   },
   "license": "ISC",
-  "author": "upbeat amphibian",
+  "author": "Jalaj Kamat",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "hello.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "express": "^5.2.1"
   }
 }
