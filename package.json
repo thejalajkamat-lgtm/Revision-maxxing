@@ -1,7 +1,7 @@
 {
   "name": "horny",
   "version": "1.0.0",
-  "description": "",
+  "description": "HOes are horrible",
   "homepage": "https://github.com/thejalajkamat-lgtm/Revision-maxxing#readme",
   "bugs": {
     "url": "https://github.com/thejalajkamat-lgtm/Revision-maxxing/issues"
@@ -13,7 +13,7 @@
   "license": "ISC",
   "author": "Jalaj Kamat",
   "type": "commonjs",
-  "main": "hello.js",
+  "main": "http.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node hello.js"
