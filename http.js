@@ -16,7 +16,7 @@ const myServer = http.createServer( (req, res) => {
             default:
                 res.end("404 Not Found")
         }
-        // res.end("Hello from Server ");
+        res.end("Hello from Server ");
     });
 });
 myServer.listen(8080, () => console.log("Server started"));
